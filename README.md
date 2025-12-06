@@ -18,8 +18,11 @@ A modern GUI-based Nmap automation tool made with CustomTkinter.
 https://nmap.org/download#windows
 
 ### Requirments 
+```
 pip install -r requirements.txt
-
+```
 
 ## Run
+```
 python main.py
+```
